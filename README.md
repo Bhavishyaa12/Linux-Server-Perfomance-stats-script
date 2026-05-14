@@ -5,5 +5,6 @@ This script analayzes the total disk space available in your system plus total i
 
 **This script is best for linux system administrator** 
 
+**Project url : https://roadmap.sh/projects/server-stats**
 
 You can download my script directly through
